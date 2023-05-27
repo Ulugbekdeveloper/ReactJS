@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+}
+h1{
+    padding: 10px;
+    border: 1px solid whitesmoke;
+    width: fit-content;
+    cursor: pointer;
+}
